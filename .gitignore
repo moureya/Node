@@ -4,3 +4,4 @@
 /node-web-server/server.log
 /node-tests/node_modules
 /node-todo-api/node_modules
+/node-todo-api/server/config/config.json
